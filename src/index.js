@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './19_router/Lesson';
+import App from './router/Lesson';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
 import Home from './router/components/home/home';
