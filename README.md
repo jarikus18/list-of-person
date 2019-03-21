@@ -3,6 +3,6 @@
 #  List of some person
 
 ### Init
-- https://github.com/jarukus/list-of-person.git
+- download
 - "npm install"
 - "npm start"
